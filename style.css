@@ -108,7 +108,7 @@ body{
     outline: none;
     border-radius: 22px;
     background: rgba(255, 194, 209, 0.5);
-    color: #dbdbdb;
+    color: #fff;
 }
 
 .input-area input::placeholder{
