@@ -4,15 +4,15 @@ A simple, responsive, and interactive To-Do List web application built using **H
 
 ## 🔗 Live Demo
 
-[Click here to try the app](https://your-live-link-here.com)  
-*(Replace with your deployed URL if available)*
+[Click here to try the app](https://yogeshmaske001.github.io/To-Do-List/)  
+ 
 
 ---
 
 ## 📸 Preview
 
-![App Screenshot](preview-image.png)  
-*(Include a screenshot or GIF of your app if available)*
+![App Screenshot](./images/preview-img.png)  
+ 
 
 ---
 
